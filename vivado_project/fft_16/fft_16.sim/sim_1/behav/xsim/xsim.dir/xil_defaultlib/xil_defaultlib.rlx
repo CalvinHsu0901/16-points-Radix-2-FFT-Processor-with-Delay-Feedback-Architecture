@@ -1,0 +1,11 @@
+0.7
+2020.2
+Oct 14 2022
+05:07:14
+/home/calvin0901/dspic/fft16/RTL/butterfly.v,1704630004,verilog,,/home/calvin0901/dspic/fft16/RTL/fft_16.v,,butterfly,,,,,,,,
+/home/calvin0901/dspic/fft16/RTL/fft_16.v,1704695456,verilog,,/home/calvin0901/dspic/fft16/RTL/s_sat_13_12.v,,fft_16,,,,,,,,
+/home/calvin0901/dspic/fft16/RTL/s_sat_13_12.v,1704626417,verilog,,/home/calvin0901/dspic/fft16/RTL/s_sat_22_12.v,,s_sat_13_12,,,,,,,,
+/home/calvin0901/dspic/fft16/RTL/s_sat_22_12.v,1704626965,verilog,,/home/calvin0901/dspic/fft16/RTL/tf_multi.v,,s_sat_22_12,,,,,,,,
+/home/calvin0901/dspic/fft16/RTL/tb.v,1704627569,verilog,,,,tb,,,,,,,,
+/home/calvin0901/dspic/fft16/RTL/tf_multi.v,1704626342,verilog,,/home/calvin0901/dspic/fft16/RTL/tb.v,,tf_multi,,,,,,,,
+/home/calvin0901/dspic/fft16/fft_16/fft_16.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,,,,,,,

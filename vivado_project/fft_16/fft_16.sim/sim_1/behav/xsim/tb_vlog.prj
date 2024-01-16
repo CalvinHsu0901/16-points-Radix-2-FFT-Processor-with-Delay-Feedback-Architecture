@@ -1,0 +1,14 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../RTL/butterfly.v" \
+"../../../../../RTL/fft_16.v" \
+"../../../../../RTL/s_sat_13_12.v" \
+"../../../../../RTL/s_sat_22_12.v" \
+"../../../../../RTL/tf_multi.v" \
+"../../../../../RTL/tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
